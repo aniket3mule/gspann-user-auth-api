@@ -1,4 +1,5 @@
 To start the server, run:
+# npm install
 # npm run dev
 
 Testing the API: 
